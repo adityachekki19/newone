@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+ta
+pillow
+opencv-python-headless
+easyocr
+torch
+torchvision
